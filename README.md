@@ -39,7 +39,7 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
    
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br>Bootstrap</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50"/><br>Tailwind CSS</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/><br>SCSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/><br>VS Code</td>
