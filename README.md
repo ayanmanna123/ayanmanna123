@@ -40,6 +40,41 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     <td align="center"><img src="https://www.vectorlogo.zone/logos/glitch/glitch-icon.svg" width="50"/><br>Glitch</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="50"/><br>Airflow</td>
   </tr>
+  
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/><br>SCSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50"/><br>Vite</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>Express</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB Atlas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/><br>Vercel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50"/><br>Netlify</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/><br>AWS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br>Bootstrap</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br>Tailwind CSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/><br>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React Router</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemailer/nodemailer-original.svg" width="50"/><br>Nodemailer</td>
+    <td align="center"><img src="https://via.placeholder.com/50" width="50"/><br>ChatGPT</td>
+    <td align="center"><img src="https://via.placeholder.com/50" width="50"/><br>Claude</td>
+    <td align="center"><img src="https://via.placeholder.com/50" width="50"/><br>Cursarai</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsx/jsx-original.svg" width="50"/><br>JSX</td>
+  </tr>
+ 
+
 </table>
 
 
