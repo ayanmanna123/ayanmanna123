@@ -27,7 +27,7 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB Atlas</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/><br>Vercel</td>
+    <td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/vercel.png" width="50"/><br>Vercel</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50"/><br>Netlify</td>
     <td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/aws-color.png" width="50"/><br>AWS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
