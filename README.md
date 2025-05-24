@@ -19,15 +19,16 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React</td>
+    
+  </tr>
+    
+
+  <tr> 
+   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="50"/><br>Vite</td>
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>Express</td>
-  </tr>
-    
-
-  <tr>  
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB Atlas</td>
   </tr>
      
@@ -39,15 +40,17 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
     <td align="center"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50"/><br>GitHub</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/><br>GitLab</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/><br>Google Cloud</td>
+   
   </tr>
  
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/><br>Google Cloud</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br>Bootstrap</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50"/><br>Tailwind CSS</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/><br>SCSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/><br>VS Code</td>
+   
   </tr>
 </table>
 
