@@ -10,7 +10,7 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
 <h3>Tech Knowledge</h3>
 
 <table>
-   <h2>Frontend</h2>
+   
    <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS</td>
