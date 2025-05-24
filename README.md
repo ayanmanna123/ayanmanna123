@@ -21,13 +21,13 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>React</td>
     <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="50"/><br>Vite</td>
+     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>Express</td>
   </tr>
     
 
   <tr>  
-   <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>Express</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB Atlas</td>
   </tr>
      
