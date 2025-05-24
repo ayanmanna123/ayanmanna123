@@ -10,6 +10,7 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
 <h3>Tech Knowledge</h3>
 
 <table>
+# 💻 Tech Stack:
    
    <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
@@ -23,8 +24,8 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
   </tr>
     
 
-  <tr>
-       <h2>Backend</h2>
+  <tr>  
+     # 💻 Tech Stack:
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>MySQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>Express</td>
@@ -33,7 +34,6 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
      
 
   <tr>
-     <h2>deploy</h2>
     <td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/vercel.png" width="50"/><br>Vercel</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50"/><br>Netlify</td>
     <td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/aws-color.png" width="50"/><br>AWS</td>
@@ -44,7 +44,6 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
   </tr>
  
   <tr>
-      <h2>Style and  design </h2>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br>Bootstrap</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50"/><br>Tailwind CSS</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"/><br>SCSS</td>
