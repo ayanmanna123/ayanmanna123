@@ -17,9 +17,9 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>C</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>C++</td>
-     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>React</td>
-    <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Vite</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>MySQL</td>
+         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>SCSS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Figma</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>VS Code</td>
   </tr>
 
   <tr>
@@ -29,6 +29,9 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>MongoDB</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Express</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>MongoDB Atlas</td>
+     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Google Cloud</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Bootstrap</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Tailwind CSS</td>
   </tr>
 
   <tr>
@@ -40,14 +43,7 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>GitLab</td>
   </tr>
 
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Google Cloud</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Bootstrap</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Tailwind CSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>SCSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Figma</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>VS Code</td>
-  </tr>
+  
 </table>
 
 
