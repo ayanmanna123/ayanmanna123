@@ -41,6 +41,9 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Git</td>
     <td align="center"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>GitHub</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>GitLab</td>
+      <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br> Redux</td>
+      <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVC1k-iS7Bx1ySL43nPK8EEjn-Ct3kHqj3Q&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>n8n</td>
+      <td align="center"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-transparent-svg-vector-bie-supply-2.png" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>my sql</td>
   </tr>
 
   
