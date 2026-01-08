@@ -55,7 +55,10 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
           <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Tensorflow</td>
           <td align="center"><img src="https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Transformers</td>
           <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtAniCw22R1oYThcRHwkGHIsQdbkdByEN6Tw&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Py torch</td>
-          <td align="center"><img src="https://editor.analyticsvidhya.com/uploads/70574124120f1b1b40-08f0-467d-9a35-0f0fe71e0a43.jpg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Keras</td>
+          
+   </tr>
+   <tr>
+     <td align="center"><img src="https://editor.analyticsvidhya.com/uploads/70574124120f1b1b40-08f0-467d-9a35-0f0fe71e0a43.jpg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Keras</td>
    </tr>
 
   
