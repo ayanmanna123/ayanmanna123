@@ -47,6 +47,15 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
   </tr>
    <tr>
        <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQH_UD8CmG1k13eSzI-sYQyQHsDmXq-HOeG5UhE1Fg6gGLmryLP-2f-IA_JKdclff0MToxu3UnjUr463m9rGi5uoojh45tQ6JTR5XfWSM&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Numpy</td>
+     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Pandas</td>
+       <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJp_RsPVdUBHHqz0fEsLTsUmCfK3-G2JIcvA&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Opencv</td>
+       <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7DsVeQubPVKVj8GWyHVhMr6oQg8eqsZaEw&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Seaborn</td>
+          <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaWRWUBqTxaKJi-aAovlpbDffHnuim6RWww&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Matplotlib</td>
+          <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Scikit learn</td>
+          <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Tensorflow</td>
+          <td align="center"><img src="https://repository-images.githubusercontent.com/155220641/a16c4880-a501-11ea-9e8f-646cf611702e" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Transformers</td>
+          <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtAniCw22R1oYThcRHwkGHIsQdbkdByEN6Tw&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Py torch</td>
+          <td align="center"><img src="https://editor.analyticsvidhya.com/uploads/70574124120f1b1b40-08f0-467d-9a35-0f0fe71e0a43.jpg" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Keras</td>
    </tr>
 
   
