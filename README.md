@@ -45,6 +45,9 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
       <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVC1k-iS7Bx1ySL43nPK8EEjn-Ct3kHqj3Q&s" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>n8n</td>
       <td align="center"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-transparent-svg-vector-bie-supply-2.png" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>my sql</td>
   </tr>
+   <tr>
+       <td align="center"><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTVC1k-iS7Bx1ySL43nPK8EEjn-Ct3kHqj3Q&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQH_UD8CmG1k13eSzI-sYQyQHsDmXq-HOeG5UhE1Fg6gGLmryLP-2f-IA_JKdclff0MToxu3UnjUr463m9rGi5uoojh45tQ6JTR5XfWSM&s)" width="50" style="filter: drop-shadow(2px 4px 6px gray); transform: perspective(200px) rotateY(5deg);"/><br>Numpy</td>
+   </tr>
 
   
 </table>
