@@ -80,7 +80,14 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
 
 ## 🐍 Snake Eating My Github Contributions
 
-![snake gif](https://github.com/ShubhamSinghRawat10/ShubhamSinghRawat10/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/ayanmanna123/ayanmanna123/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://github.com/ayanmanna123/ayanmanna123/blob/output/github-contribution-grid-snake.svg"
+    alt="Snake animation" />
+</picture>
+
 
 ---
 ### 🧭 Contribution Journey
