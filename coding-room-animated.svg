@@ -1,0 +1,349 @@
+<svg width="1000" height="700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Synthwave gradients -->
+    <linearGradient id="wallGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a0d2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="neonPink" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#ff00ff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#ff00ff;stop-opacity:0" />
+    </radialGradient>
+    <radialGradient id="neonPurple" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:0" />
+    </radialGradient>
+    <radialGradient id="neonBlue" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#00d9ff;stop-opacity:0" />
+    </radialGradient>
+    <radialGradient id="neonGreen" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#00ff88;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#00ff88;stop-opacity:0" />
+    </radialGradient>
+    
+    <!-- Animations -->
+    <style>
+      @keyframes neonGlow {
+        0%, 100% { opacity: 0.7; filter: drop-shadow(0 0 8px #ff00ff); }
+        50% { opacity: 1; filter: drop-shadow(0 0 20px #ff00ff) drop-shadow(0 0 30px #a855f7); }
+      }
+      @keyframes codeScroll {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(-25px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 1; }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes rgbCycle {
+        0% { fill: #ff00ff; }
+        33% { fill: #00d9ff; }
+        66% { fill: #a855f7; }
+        100% { fill: #ff00ff; }
+      }
+      @keyframes gameStats {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+      .neon { animation: neonGlow 2s ease-in-out infinite; }
+      .codeScroll { animation: codeScroll 3s linear infinite; }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      .float { animation: float 3s ease-in-out infinite; }
+      .rgbCycle { animation: rgbCycle 3s ease-in-out infinite; }
+      .gameStats { animation: gameStats 2s ease-in-out infinite; }
+    </style>
+  </defs>
+  
+  <!-- Background - Dark purple/blue wall -->
+  <rect width="1000" height="700" fill="url(#wallGrad)"/>
+  
+  <!-- Grid pattern on wall (pixel art style) -->
+  <g opacity="0.15">
+    <line x1="0" y1="100" x2="1000" y2="100" stroke="#a855f7" stroke-width="1"/>
+    <line x1="0" y1="200" x2="1000" y2="200" stroke="#a855f7" stroke-width="1"/>
+    <line x1="0" y1="300" x2="1000" y2="300" stroke="#a855f7" stroke-width="1"/>
+    <line x1="100" y1="0" x2="100" y2="700" stroke="#a855f7" stroke-width="1"/>
+    <line x1="200" y1="0" x2="200" y2="700" stroke="#a855f7" stroke-width="1"/>
+  </g>
+  
+  <!-- Foreground: Bed/Sofa -->
+  <rect x="0" y="600" width="1000" height="100" fill="#2d1b4e"/>
+  <rect x="50" y="620" width="200" height="60" fill="#3d2b5e" rx="5"/>
+  <rect x="60" y="630" width="180" height="40" fill="#4d3b6e" rx="3"/>
+  <!-- Pillows -->
+  <rect x="70" y="640" width="50" height="25" fill="#5d4b7e" rx="5"/>
+  <rect x="130" y="640" width="50" height="25" fill="#5d4b7e" rx="5"/>
+  <!-- Red gaming device on floor -->
+  <rect x="880" y="640" width="30" height="20" fill="#ff0000" rx="3"/>
+  <circle cx="890" cy="650" r="3" fill="#ffffff"/>
+  <circle cx="900" cy="650" r="3" fill="#ffffff"/>
+  
+  <!-- Left side: Wardrobe/Closet with hanging clothes -->
+  <rect x="20" y="100" width="80" height="500" fill="#1a0d2e" stroke="#a855f7" stroke-width="2" opacity="0.9"/>
+  <!-- Horizontal bar at top for hanging clothes -->
+  <line x1="25" y1="120" x2="95" y2="120" stroke="#a855f7" stroke-width="2" opacity="0.6"/>
+  <!-- Hanging clothes (dark elongated rectangles) -->
+  <rect x="30" y="125" width="20" height="70" fill="#2d1b4e" rx="2"/>
+  <rect x="55" y="125" width="20" height="70" fill="#2d1b4e" rx="2"/>
+  <rect x="30" y="210" width="20" height="70" fill="#2d1b4e" rx="2"/>
+  <rect x="55" y="210" width="20" height="70" fill="#ff00ff" opacity="0.8" rx="2"/> <!-- Vibrant pink/magenta item -->
+  <rect x="30" y="295" width="20" height="70" fill="#2d1b4e" rx="2"/>
+  <rect x="55" y="295" width="20" height="70" fill="#2d1b4e" rx="2"/>
+  <rect x="30" y="380" width="20" height="70" fill="#2d1b4e" rx="2"/>
+  <rect x="55" y="380" width="20" height="70" fill="#4a1a6e" rx="2"/>
+  <!-- Subtle purple highlight/outline -->
+  <rect x="22" y="102" width="76" height="496" fill="none" stroke="#a855f7" stroke-width="1" opacity="0.4"/>
+  
+  <!-- Desk (long dark desk with RGB strip) -->
+  <rect x="250" y="450" width="600" height="30" fill="#1a0a1a"/>
+  <rect x="250" y="450" width="600" height="3" fill="#ff00ff" class="pulse"/>
+  <rect x="250" y="453" width="600" height="2" fill="#0a0a0a"/>
+  
+  <!-- Gaming Mousepad (RGB) -->
+  <rect x="440" y="455" width="150" height="20" fill="#0a0a0a" rx="3" stroke="#00d9ff" stroke-width="1"/>
+  <rect x="445" y="458" width="140" height="14" fill="#1a1a2e"/>
+  <line x1="445" y1="465" x2="585" y2="465" stroke="#00d9ff" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Premium Gaming Chair (enhanced, cream/light grey with RGB) -->
+  <!-- Chair base/seat -->
+  <rect x="410" y="420" width="90" height="35" fill="#e8e8e8" rx="5"/>
+  <rect x="420" y="400" width="70" height="55" fill="#d0d0d0" rx="3"/>
+  <rect x="435" y="385" width="40" height="35" fill="#e8e8e8" rx="2"/>
+  <!-- Chair back with gaming logo -->
+  <rect x="440" y="350" width="35" height="50" fill="#c0c0c0" rx="2"/>
+  <rect x="445" y="340" width="25" height="20" fill="#d0d0d0" rx="2"/>
+  <!-- Gaming chair logo/text -->
+  <text x="457" y="375" font-family="Arial" font-size="7" font-weight="bold" fill="#1a1a1a" text-anchor="middle">GAMING</text>
+  <text x="457" y="385" font-family="Arial" font-size="5" fill="#4a4a4a" text-anchor="middle">PRO</text>
+  <!-- RGB accent strips on chair -->
+  <rect x="415" y="410" width="80" height="4" fill="#ff00ff" class="pulse" rx="2"/>
+  <rect x="445" y="345" width="25" height="3" fill="#00d9ff" class="pulse" style="animation-delay: 0.3s;" rx="1"/>
+  <!-- Chair armrests -->
+  <rect x="405" y="405" width="8" height="25" fill="#c0c0c0" rx="2"/>
+  <rect x="497" y="405" width="8" height="25" fill="#c0c0c0" rx="2"/>
+  <!-- RGB glow on armrests -->
+  <rect x="406" y="407" width="6" height="2" fill="#a855f7" class="pulse"/>
+  <rect x="498" y="407" width="6" height="2" fill="#a855f7" class="pulse"/>
+  <!-- Chair wheels (5 wheels for premium look) -->
+  <circle cx="425" cy="455" r="6" fill="#2a2a2a"/>
+  <circle cx="445" cy="455" r="6" fill="#2a2a2a"/>
+  <circle cx="465" cy="455" r="6" fill="#2a2a2a"/>
+  <circle cx="485" cy="455" r="6" fill="#2a2a2a"/>
+  <circle cx="495" cy="455" r="6" fill="#2a2a2a"/>
+  <!-- Wheel highlights -->
+  <circle cx="425" cy="455" r="3" fill="#4a4a4a"/>
+  <circle cx="445" cy="455" r="3" fill="#4a4a4a"/>
+  <circle cx="465" cy="455" r="3" fill="#4a4a4a"/>
+  <circle cx="485" cy="455" r="3" fill="#4a4a4a"/>
+  <circle cx="495" cy="455" r="3" fill="#4a4a4a"/>
+  
+  <!-- Coder sitting in chair (from back, dark gaming hoodie, RGB headphones) -->
+  <!-- Head -->
+  <circle cx="460" cy="390" r="16" fill="#1a1a1a"/>
+  <!-- Body/Back -->
+  <rect x="445" y="405" width="30" height="45" fill="#0a0a0a"/>
+  <!-- Shoulders -->
+  <rect x="440" y="405" width="40" height="20" fill="#1a1a2e" rx="3"/>
+  <!-- Gaming hoodie with RGB accent -->
+  <rect x="450" y="410" width="20" height="35" fill="#1a1a2e"/>
+  <line x1="455" y1="420" x2="465" y2="420" stroke="#00d9ff" stroke-width="1" opacity="0.6"/>
+  <!-- Arms on desk -->
+  <rect x="435" y="425" width="12" height="25" fill="#0a0a0a" rx="2"/>
+  <rect x="473" y="425" width="12" height="25" fill="#0a0a0a" rx="2"/>
+  <!-- Premium RGB Gaming Headphones -->
+  <ellipse cx="445" cy="390" rx="24" ry="12" fill="#2a2a2a" stroke="#ff00ff" stroke-width="2" class="pulse"/>
+  <ellipse cx="475" cy="390" rx="24" ry="12" fill="#2a2a2a" stroke="#00d9ff" stroke-width="2" class="pulse" style="animation-delay: 0.3s;"/>
+  <circle cx="445" cy="390" r="6" fill="#ff00ff" class="pulse"/>
+  <circle cx="475" cy="390" r="6" fill="#00d9ff" class="pulse" style="animation-delay: 0.3s;"/>
+  
+  <!-- Left Monitor (Gaming stats/performance) -->
+  <rect x="250" y="280" width="140" height="100" fill="#0a0a0a" stroke="#00d9ff" stroke-width="2" class="pulse"/>
+  <rect x="260" y="290" width="120" height="80" fill="#0a0a2e"/>
+  <!-- Gaming stats display -->
+  <text x="320" y="310" font-family="monospace" font-size="9" fill="#00d9ff" text-anchor="middle" class="gameStats">FPS: 144</text>
+  <text x="320" y="330" font-family="monospace" font-size="9" fill="#ff00ff" text-anchor="middle" class="gameStats">GPU: 98%</text>
+  <text x="320" y="350" font-family="monospace" font-size="9" fill="#a855f7" text-anchor="middle" class="gameStats">CPU: 45%</text>
+  <text x="320" y="370" font-family="monospace" font-size="9" fill="#00ff88" text-anchor="middle" class="gameStats">RAM: 16GB</text>
+  <rect x="300" y="380" width="40" height="10" fill="#2a2a2a"/>
+  
+  <!-- Central Monitor (curved, magenta neon glow design) - Largest -->
+  <!-- Outer glow effect for magenta neon -->
+  <rect x="395" y="255" width="230" height="170" fill="none" stroke="#ff00ff" stroke-width="5" rx="18" ry="18" opacity="0.3" class="pulse"/>
+  <!-- Curved monitor frame with bright magenta neon border -->
+  <rect x="400" y="260" width="220" height="160" fill="#1a0d2e" rx="15" ry="15" stroke="#ff00ff" stroke-width="4" style="filter: drop-shadow(0 0 8px #ff00ff) drop-shadow(0 0 15px #ff00ff);"/>
+  <!-- Curved screen with inner curve and dark purple interior -->
+  <rect x="410" y="270" width="200" height="140" fill="#0a0a2e" rx="10" ry="10"/>
+  <!-- Code lines on screen -->
+  <g class="codeScroll">
+    <text x="420" y="295" font-family="monospace" font-size="11" fill="#00d9ff">function gameDev() {</text>
+    <text x="420" y="315" font-family="monospace" font-size="11" fill="#a855f7">  const code = "awesome";</text>
+    <text x="420" y="335" font-family="monospace" font-size="11" fill="#ff00ff">  return code + " gaming";</text>
+    <text x="420" y="355" font-family="monospace" font-size="11" fill="#00d9ff">}</text>
+    <text x="420" y="375" font-family="monospace" font-size="11" fill="#a855f7">// Shubham Singh Rawat</text>
+    <text x="420" y="395" font-family="monospace" font-size="11" fill="#00d9ff">console.log("coding");</text>
+  </g>
+  <!-- Monitor stand (adjusted for longer monitor) -->
+  <rect x="500" y="420" width="40" height="15" fill="#2a2a2a" rx="3"/>
+  
+  <!-- Name in gap between monitors (single color) -->
+  <text x="500" y="210" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#a855f7" text-anchor="middle" letter-spacing="2" class="neon" style="filter: drop-shadow(0 0 10px #a855f7) drop-shadow(0 0 20px #ff00ff);">
+    SHUBHAM SINGH RAWAT
+  </text>
+  
+  <!-- Subtitle below name -->
+  <text x="500" y="235" font-family="monospace, 'Courier New'" font-size="14" fill="#888888" text-anchor="middle" letter-spacing="1">
+    Late-night coding • Neon dreams • Open source
+  </text>
+  
+  <!-- Right Monitor (Terminal/Code) -->
+  <rect x="630" y="280" width="140" height="100" fill="#0a0a0a" stroke="#ff00ff" stroke-width="2" class="pulse"/>
+  <rect x="640" y="290" width="120" height="80" fill="#0a0a2e"/>
+  <!-- Terminal display -->
+  <text x="700" y="310" font-family="monospace" font-size="9" fill="#00ff88" text-anchor="middle">$ npm start</text>
+  <text x="700" y="330" font-family="monospace" font-size="9" fill="#00d9ff" text-anchor="middle">> Building...</text>
+  <text x="700" y="350" font-family="monospace" font-size="9" fill="#a855f7" text-anchor="middle">✓ Compiled</text>
+  <text x="700" y="370" font-family="monospace" font-size="9" fill="#ff00ff" text-anchor="middle">> Ready</text>
+  <rect x="680" y="380" width="40" height="10" fill="#2a2a2a"/>
+  
+  <!-- RGB Gaming Keyboard -->
+  <rect x="450" y="460" width="120" height="12" fill="#1a1a1a" rx="2" stroke="#00d9ff" stroke-width="1"/>
+  <!-- Keys with RGB glow -->
+  <rect x="455" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle"/>
+  <rect x="465" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.1s;"/>
+  <rect x="475" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.2s;"/>
+  <rect x="485" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.3s;"/>
+  <rect x="495" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.4s;"/>
+  <rect x="505" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.5s;"/>
+  <rect x="515" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.6s;"/>
+  <rect x="525" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.7s;"/>
+  <rect x="535" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.8s;"/>
+  <rect x="545" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 0.9s;"/>
+  <rect x="555" y="463" width="8" height="6" fill="#2a2a2a" class="rgbCycle" style="animation-delay: 1s;"/>
+  
+  <!-- RGB Gaming Mouse -->
+  <ellipse cx="580" cy="466" rx="22" ry="12" fill="#1a1a1a" stroke="#ff00ff" stroke-width="1"/>
+  <ellipse cx="575" cy="464" rx="10" ry="6" fill="#00d9ff" opacity="0.8" class="pulse"/>
+  <circle cx="585" cy="462" r="2" fill="#ff00ff" class="pulse"/>
+  
+  <!-- Tablet/Drawing pad (left side) -->
+  <rect x="300" y="400" width="60" height="40" fill="#2a2a2a" rx="3" stroke="#a855f7" stroke-width="1"/>
+  <rect x="310" y="410" width="40" height="20" fill="#1a1a1a"/>
+  <circle cx="315" cy="415" r="2" fill="#a855f7"/>
+  
+  <!-- Phone/Device standing -->
+  <rect x="370" y="405" width="12" height="20" fill="#e8e8e8" rx="2"/>
+  <rect x="372" y="410" width="8" height="10" fill="#0a0a0a"/>
+  <circle cx="376" cy="415" r="1" fill="#00d9ff" class="pulse"/>
+  
+  <!-- Blue glowing object (RGB light/humidifier) -->
+  <rect x="320" y="420" width="20" height="20" fill="#00d9ff" opacity="0.7" class="pulse"/>
+  <circle cx="330" cy="430" r="8" fill="url(#neonBlue)" class="pulse"/>
+  <circle cx="330" cy="430" r="4" fill="#00d9ff" class="pulse"/>
+  
+  <!-- RGB Circular desk lights (pink/blue/purple) -->
+  <circle cx="380" cy="320" r="18" fill="url(#neonPink)" class="pulse"/>
+  <circle cx="380" cy="320" r="10" fill="#ff00ff" class="pulse"/>
+  <circle cx="380" cy="320" r="5" fill="#ffffff"/>
+  <circle cx="620" cy="320" r="18" fill="url(#neonBlue)" class="pulse"/>
+  <circle cx="620" cy="320" r="10" fill="#00d9ff" class="pulse"/>
+  <circle cx="620" cy="320" r="5" fill="#ffffff"/>
+  
+  <!-- RGB PC Tower (moved to side/floor) -->
+  <rect x="850" y="480" width="60" height="100" fill="#e8e8e8" stroke="#a855f7" stroke-width="2"/>
+  <rect x="860" y="490" width="40" height="20" fill="#0a0a0a"/>
+  <!-- RGB Glowing vents (cycling colors) -->
+  <circle cx="870" cy="520" r="10" fill="url(#neonPink)" class="pulse"/>
+  <circle cx="870" cy="520" r="6" fill="#ff00ff" class="pulse"/>
+  <circle cx="900" cy="520" r="10" fill="url(#neonBlue)" class="pulse" style="animation-delay: 0.3s;"/>
+  <circle cx="900" cy="520" r="6" fill="#00d9ff" class="pulse" style="animation-delay: 0.3s;"/>
+  <circle cx="885" cy="540" r="10" fill="url(#neonPurple)" class="pulse" style="animation-delay: 0.6s;"/>
+  <circle cx="885" cy="540" r="6" fill="#a855f7" class="pulse" style="animation-delay: 0.6s;"/>
+  <!-- RGB strip on PC -->
+  <rect x="855" y="500" width="50" height="2" fill="#ff00ff" class="pulse"/>
+  
+  <!-- White gaming mug -->
+  <rect x="770" y="400" width="20" height="25" fill="#e8e8e8" rx="2"/>
+  <ellipse cx="780" cy="400" rx="10" ry="3" fill="#d0d0d0"/>
+  <line x1="790" y1="410" x2="800" y2="405" stroke="#d0d0d0" stroke-width="2" stroke-linecap="round"/>
+  <text x="780" y="415" font-family="Arial" font-size="6" fill="#1a1a1a" text-anchor="middle">GAME</text>
+  
+  <!-- PlayStation-style Gaming Controller (white) -->
+  <rect x="720" y="460" width="35" height="22" fill="#e8e8e8" rx="5"/>
+  <!-- Controller buttons -->
+  <circle cx="730" cy="470" r="3" fill="#2a2a2a"/>
+  <circle cx="740" cy="470" r="3" fill="#2a2a2a"/>
+  <circle cx="735" cy="475" r="2" fill="#ff0000"/>
+  <circle cx="745" cy="475" r="2" fill="#0000ff"/>
+  <circle cx="750" cy="470" r="2" fill="#00ff00"/>
+  <circle cx="755" cy="470" r="2" fill="#ffff00"/>
+  <!-- RGB glow on controller -->
+  <rect x="722" y="462" width="31" height="2" fill="#00d9ff" opacity="0.6" class="pulse"/>
+  
+  <!-- Premium Gaming Microphone on RGB arm -->
+  <line x1="750" y1="450" x2="785" y2="420" stroke="#4a4a4a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="788" cy="417" r="10" fill="#2a2a2a" stroke="#ff00ff" stroke-width="2"/>
+  <circle cx="788" cy="417" r="6" fill="#1a1a1a"/>
+  <circle cx="788" cy="417" r="3" fill="#ff00ff" class="pulse"/>
+  
+  <!-- Right side: Window with blinds -->
+  <rect x="850" y="150" width="100" height="200" fill="#0a0a0a" stroke="#a855f7" stroke-width="2" opacity="0.8"/>
+  <rect x="860" y="160" width="80" height="180" fill="#4a1a6e" opacity="0.6"/>
+  <!-- Blinds with RGB reflection -->
+  <line x1="850" y1="200" x2="950" y2="200" stroke="#ff00ff" stroke-width="2" opacity="0.8"/>
+  <line x1="850" y1="230" x2="950" y2="230" stroke="#00d9ff" stroke-width="2" opacity="0.8"/>
+  <line x1="850" y1="260" x2="950" y2="260" stroke="#a855f7" stroke-width="2" opacity="0.8"/>
+  <line x1="850" y1="290" x2="950" y2="290" stroke="#ff00ff" stroke-width="2" opacity="0.8"/>
+  <line x1="850" y1="320" x2="950" y2="320" stroke="#00d9ff" stroke-width="2" opacity="0.8"/>
+  
+  <!-- Large plant (Monstera) on shelf -->
+  <circle cx="860" cy="370" r="25" fill="#2d5016" opacity="0.8"/>
+  <ellipse cx="850" cy="365" rx="15" ry="20" fill="#3d6026"/>
+  <ellipse cx="870" cy="365" rx="15" ry="20" fill="#3d6026"/>
+  <ellipse cx="860" cy="355" rx="12" ry="15" fill="#4d7036"/>
+  
+  <!-- Smaller trailing plant -->
+  <circle cx="880" cy="410" r="12" fill="#2d5016"/>
+  <ellipse cx="875" cy="408" rx="8" ry="10" fill="#3d6026"/>
+  <ellipse cx="885" cy="408" rx="8" ry="10" fill="#3d6026"/>
+  <!-- Trailing vines -->
+  <line x1="890" y1="415" x2="900" y2="430" stroke="#3d6026" stroke-width="3" stroke-linecap="round"/>
+  <line x1="895" y1="420" x2="905" y2="435" stroke="#3d6026" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Green snake plush toy (gaming mascot) -->
+  <ellipse cx="920" cy="400" rx="18" ry="10" fill="#2d5016"/>
+  <ellipse cx="915" cy="398" rx="15" ry="8" fill="#3d6026"/>
+  <ellipse cx="925" cy="398" rx="15" ry="8" fill="#3d6026"/>
+  <ellipse cx="920" cy="395" rx="12" ry="7" fill="#4d7036"/>
+  <!-- White belly -->
+  <ellipse cx="920" cy="400" rx="10" ry="5" fill="#e8e8e8"/>
+  <!-- Eyes -->
+  <circle cx="915" cy="395" r="2" fill="#000"/>
+  <circle cx="925" cy="395" r="2" fill="#000"/>
+  <!-- RGB collar -->
+  <ellipse cx="920" cy="405" rx="12" ry="3" fill="#ff00ff" opacity="0.6" class="pulse"/>
+  
+  <!-- White bottle/container -->
+  <rect x="900" y="425" width="8" height="15" fill="#e8e8e8" rx="1"/>
+  
+  <!-- RGB Neon grid lines on floor -->
+  <line x1="0" y1="480" x2="1000" y2="480" stroke="#ff00ff" stroke-width="1" opacity="0.4" class="pulse"/>
+  <line x1="0" y1="500" x2="1000" y2="500" stroke="#00d9ff" stroke-width="1" opacity="0.4" class="pulse" style="animation-delay: 0.5s;"/>
+  
+  <!-- Floating gaming + code symbols -->
+  <text x="200" y="100" font-family="monospace" font-size="22" fill="#ff00ff" opacity="0.5" class="float">&lt;/&gt;</text>
+  <text x="800" y="80" font-family="monospace" font-size="20" fill="#a855f7" opacity="0.5" class="float" style="animation-delay: 0.5s;">{ }</text>
+  <text x="150" y="250" font-family="monospace" font-size="18" fill="#00d9ff" opacity="0.5" class="float" style="animation-delay: 1s;">( )</text>
+  <text x="750" y="120" font-family="Arial" font-size="16" fill="#ff00ff" opacity="0.4" class="float" style="animation-delay: 1.5s;">🎮</text>
+  
+  <!-- Bottom border with RGB effect -->
+  <rect x="0" y="680" width="1000" height="20" fill="#0a0a0a" opacity="0.9"/>
+  <rect x="0" y="680" width="1000" height="2" fill="#ff00ff" class="pulse"/>
+  <text x="500" y="695" font-family="Arial, sans-serif" font-size="12" fill="#ff00ff" text-anchor="middle" opacity="0.9" class="pulse">
+    Gaming + Coding Room • Shubham Singh Rawat • RGB Synthwave Edition
+  </text>
+</svg>
