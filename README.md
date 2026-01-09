@@ -72,7 +72,7 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
 
 <picture>
   <img
-    src="https://streak-stats.demolab.com?user=ayanmanna123&theme=dark&hide_border=false&cache_seconds=86400"
+    src="https://streak-stats.demolab.com/?user=ayanmanna123&theme=dark&hide_border=false"
     alt="GitHub Streak Stats"
   />
 </picture>
