@@ -78,6 +78,84 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+## 📈 Contribution Graph
+
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanmanna123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+
+---
+
+
+## 📊 Detailed Analytics
+
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayanmanna123&theme=tokyonight" alt="Profile Details" width="100%"/>
+
+</div>
+
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanmanna123&theme=tokyonight" alt="Repos Per Language" width="48%"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayanmanna123&theme=tokyonight" alt="Most Commit Language" width="48%"/>
+
+</div>
+
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayanmanna123&theme=tokyonight" alt="Stats" width="48%"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayanmanna123&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%"/>
+
+</div>
+
+
+---
+
+
+## 💼 My Recent Contributions & Pull Requests
+
+
+### ✅ Merged Pull Requests
+
+
+| Repository | PR Title | Description | Status |
+
+|------------|----------|-------------|--------|
+
+| [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#21 - Add issue templates](https://github.com/denshaw-09/AlgoFi/pull/21) | Added individual issue templates for bug, feature, enhancement categories | ✅ Merged |
+
+| [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#20 - Contribution guides](https://github.com/denshaw-09/AlgoFi/pull/20) | Added comprehensive CONTRIBUTION_GUIDE and environment setup | ✅ Merged |
+
+| [ayanmanna123/git-gang](https://github.com/ayanmanna123/git-gang) | [#1 - Fix typo](https://github.com/ayanmanna123/git-gang/pull/1) | Fixed typo in contributors message | ✅ Merged |
+
+| [SashankBhamidi/git-gang](https://github.com/SashankBhamidi/git-gang) | [#353 - Add contributor](https://github.com/SashankBhamidi/git-gang/pull/353) | Added my name to contributors list | ✅ Merged |
+
+
+### 🔄 Open Pull Requests
+
+
+| Repository | PR Title | Description | Status |
+
+|------------|----------|-------------|--------|
+
+| [Nayanika1402/RuRal-ReTreats](https://github.com/Nayanika1402/RuRal-ReTreats) | [#578 - Improve homestays page](https://github.com/Nayanika1402/RuRal-ReTreats/pull/578) | Enhanced layout and styling of homestays page | 🔄 Under Review |
+
+| [ayanmanna123/github-readme-quotes](https://github.com/ayanmanna123/github-readme-quotes) | [#1 - Fix README formatting](https://github.com/ayanmanna123/github-readme-quotes/pull/1) | Minor formatting improvements for better readability | 🔄 Open |
+
+| [ayanmanna123/first-contributions](https://github.com/ayanmanna123/first-contributions) | [#1 - Add to contributors](https://github.com/ayanmanna123/first-contributions/pull/1) | Added name to contributors list | 🔄 Open |
+
+
 ---
 
 ## 🐍 Snake Eating My Github Contributions
