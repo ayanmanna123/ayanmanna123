@@ -120,41 +120,6 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
 </div>
 
 
----
-
-
-## 💼 My Recent Contributions & Pull Requests
-
-
-### ✅ Merged Pull Requests
-
-
-| Repository | PR Title | Description | Status |
-
-|------------|----------|-------------|--------|
-
-| [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#21 - Add issue templates](https://github.com/denshaw-09/AlgoFi/pull/21) | Added individual issue templates for bug, feature, enhancement categories | ✅ Merged |
-
-| [denshaw-09/AlgoFi](https://github.com/denshaw-09/AlgoFi) | [#20 - Contribution guides](https://github.com/denshaw-09/AlgoFi/pull/20) | Added comprehensive CONTRIBUTION_GUIDE and environment setup | ✅ Merged |
-
-| [ayanmanna123/git-gang](https://github.com/ayanmanna123/git-gang) | [#1 - Fix typo](https://github.com/ayanmanna123/git-gang/pull/1) | Fixed typo in contributors message | ✅ Merged |
-
-| [SashankBhamidi/git-gang](https://github.com/SashankBhamidi/git-gang) | [#353 - Add contributor](https://github.com/SashankBhamidi/git-gang/pull/353) | Added my name to contributors list | ✅ Merged |
-
-
-### 🔄 Open Pull Requests
-
-
-| Repository | PR Title | Description | Status |
-
-|------------|----------|-------------|--------|
-
-| [Nayanika1402/RuRal-ReTreats](https://github.com/Nayanika1402/RuRal-ReTreats) | [#578 - Improve homestays page](https://github.com/Nayanika1402/RuRal-ReTreats/pull/578) | Enhanced layout and styling of homestays page | 🔄 Under Review |
-
-| [ayanmanna123/github-readme-quotes](https://github.com/ayanmanna123/github-readme-quotes) | [#1 - Fix README formatting](https://github.com/ayanmanna123/github-readme-quotes/pull/1) | Minor formatting improvements for better readability | 🔄 Open |
-
-| [ayanmanna123/first-contributions](https://github.com/ayanmanna123/first-contributions) | [#1 - Add to contributors](https://github.com/ayanmanna123/first-contributions/pull/1) | Added name to contributors list | 🔄 Open |
-
 
 ---
 
