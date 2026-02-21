@@ -132,7 +132,11 @@ I am a passionate coder and web developer who thrives on solving puzzles and tac
     src="https://github.com/ayanmanna123/ayanmanna123/blob/output/github-contribution-grid-snake.svg"
     alt="Snake animation" />
 </picture>
-
+---
+# ■ My GitHub Activity Game
+<p align="center">
+ <img src="assets/space-shooter.gif" />
+</p>
 
 ---
 ### 🧭 Contribution Journey
